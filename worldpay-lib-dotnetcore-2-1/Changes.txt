@@ -1,0 +1,38 @@
+==============================================
+Changes
+==============================================
+
+Overall
+	- changed from .Net Desktop FX 4.6.1 to .Net Core 2.1
+	- refactor to use newer object initialization syntax
+			ex: createOrderRequest method
+	- refactor to replace string.format with newer $"{}" string interpolation style
+
+Worldpay.Sdk
+	- changed from embedded copy of JSON.NET source code to use nuget reference
+	- replaced Models.SettingsResponse.cs w/ Models.SettingsResponse2.cs
+		original entity did not deserialize correctly
+	- added ref to Microsoft.Extensions.Configuration.* assys
+		Note: Currently using external JSON file but could make it compatible with original app.config XML file if desired
+	- SettingsService.cs
+		changed entity returned from SettingsResponse.cs to SettingsResponse2.cs
+	- Configuration.cs
+		chgs to use .net core style of retrieving config info
+		added code to return MerchantId from external config file
+	- WorldpayException.cs
+		changed to derive from ApplicationException 
+	- Http.cs
+		updated user agent string
+	- appsettings.json
+		added file
+
+
+Worldpay.Sdk.Text
+	- changed from MSTest to xUnit
+	- appsettings.json
+		NOTE: currently these have the keys & id from my test account, you will need to change
+	- all test classes
+		general refactoring for unit testing framework change
+	- TestHelper.cs
+		add GetCurrentUserCountryCode() and GetCurrentUserDefaultAddress() to "localize" the generated values
+
