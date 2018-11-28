@@ -1,0 +1,9 @@
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\bin\Debug\netstandard2.0\Worldpay.Sdk.deps.json
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\bin\Debug\netstandard2.0\Worldpay.Sdk.dll
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\bin\Debug\netstandard2.0\Worldpay.Sdk.pdb
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.csprojAssemblyReference.cache
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.AssemblyInfoInputs.cache
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.AssemblyInfo.cs
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.dll
+C:\Users\xtobr\Source\Repos\Worldpay\worldpay-lib-dotnet\worldpay-lib-dotnetcore-2-1\Worldpay.Sdk\obj\Debug\netstandard2.0\Worldpay.Sdk.pdb
